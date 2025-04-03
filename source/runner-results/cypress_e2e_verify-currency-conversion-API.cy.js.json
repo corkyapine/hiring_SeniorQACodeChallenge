@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-04-03T17:01:12.147Z",
+  "duration": 2889,
+  "file": "cypress/e2e/verify-currency-conversion-API.cy.js"
+}

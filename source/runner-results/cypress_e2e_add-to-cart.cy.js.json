@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-04-03T17:01:03.928Z",
+  "duration": 8198,
+  "file": "cypress/e2e/add-to-cart.cy.js"
+}

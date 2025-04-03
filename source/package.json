@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cypress": "^14.2.1",
+    "cypress-multi-reporters": "^2.0.5"
+  },
+  "devDependencies": {
+    "cypress-parallel": "^0.15.0"
+  },
+  "scripts": {
+    "cy:run": "../node_modules/.bin/cypress run",
+    "cy:parallel": "../node_modules/.bin/cypress-parallel -s cy:run -t 2 -d 'cypress/e2e' -n ../node_modules/cypress-multi-reporters"
+  }
+}

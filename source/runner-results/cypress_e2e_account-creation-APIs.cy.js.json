@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 2,
+  "passes": 2,
+  "pending": 0,
+  "failures": 0,
+  "start": "2025-04-03T17:01:06.959Z",
+  "duration": 3412,
+  "file": "cypress/e2e/account-creation-APIs.cy.js"
+}
